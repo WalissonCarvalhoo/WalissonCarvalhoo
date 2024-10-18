@@ -2,7 +2,7 @@
 
 <h3 align="center">Um analista de dados com conhecimentos em RPA, estatística, aprendizado de máquina e programação.</h3>
 
-- 🌱 Atualmente estou aprendendo **RPA, estatística, Python, Power BI, SQL.**
+- 🌱 Atualmente estou aprendendo sobre **RPA, estatística e Consumo de API's.**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/WalissonCarvalhoo](https://github.com/WalissonCarvalhoo)
 
