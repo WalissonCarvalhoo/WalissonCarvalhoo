@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou o Walisson Carvalho</h1>
-<h3 align="center">Tenho mais de 5 anos de experiência no mercado de serviços financeiros e há alguns meses iniciei uma transição de carreira, onde decidi me tornar um profissional orientado a dados. Para atingir esse objetivo, dediquei todo o meu esforço em adquirir sólidos conhecimentos em ferramentas e conceitos para me tornar um profissional completo, com o objetivo de gerar insights que serão utilizados na tomada de decisões.</h3>
+<h3 align="center">Um analista de dados com conhecimentos em RPA, estatística, aprendizado de máquina e programação.</h3>
 
 - 🌱 Atualmente estou aprendendo **RPA, estatística, Python, Power BI, SQL.**
 
