@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Sou o Walisson Carvalho</h1>
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wacarv-/) 
+![Walisson GitHub stats](https://github-readme-stats.vercel.app/api?username=WalissonCarvalhoo&show_icons=true&theme=onedark)
 
 
 <h3 align="center">Um analista de dados com conhecimentos em RPA, estatística, aprendizado de máquina e programação.</h3>
