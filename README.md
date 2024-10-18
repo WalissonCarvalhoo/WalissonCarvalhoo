@@ -1,4 +1,8 @@
 <h1 align="center">Olá 👋, Sou o Walisson Carvalho</h1>
+
+![Walisson GitHub stats](https://github-readme-stats.vercel.app/api?username=WalissonCarvalhoo&show_icons=true&theme=onedark)
+
+
 <h3 align="center">Um analista de dados com conhecimentos em RPA, estatística, aprendizado de máquina e programação.</h3>
 
 - 🌱 Atualmente estou aprendendo **RPA, estatística, Python, Power BI, SQL.**
@@ -26,7 +30,6 @@
 </div><br/>
 
 
-![Walisson GitHub stats](https://github-readme-stats.vercel.app/api?username=WalissonCarvalhoo&show_icons=true&theme=onedark)
 
 
 
